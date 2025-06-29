@@ -1,0 +1,46 @@
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Build directories (e.g., CMake, Visual Studio)
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+Win32/
+out/
+.vs/
+*.vcxproj.user
+*.suo
+*.opensdf
+*.sdf
+ipch/
+
+# IDE-specific files (e.g., Visual Studio, CLion, VS Code)
+.idea/
+.vscode/
+*.user
+*.bak
+*.log
+*.swp
+*~
